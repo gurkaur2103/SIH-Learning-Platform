@@ -1,4 +1,4 @@
-# KarmSankhya AI Service
+# Learning Platform AI Service
 
 Modular FastAPI service for SIH26101. It provides document parsing, professional
 profile extraction, explainable competency-gap analysis, course recommendations,
