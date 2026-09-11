@@ -1,0 +1,3 @@
+Audit the MCQ against SOURCE. Check answer groundedness, ambiguity, duplicate
+options, distractor plausibility, competency alignment and source traceability.
+Return strict JSON with valid, score (0-100), errors and suggestions.

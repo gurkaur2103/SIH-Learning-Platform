@@ -1,0 +1,4 @@
+Generate competency-aligned MCQs using only SOURCE. Return a strict JSON array.
+Each item requires question, four plausible options, correct_index, explanation,
+competency, bloom_level, difficulty, supporting_quote, source_marker and
+confidence. Exactly one option must be defensibly correct.

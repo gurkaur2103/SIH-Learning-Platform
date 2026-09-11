@@ -1,0 +1,3 @@
+[
+  {"id":"sampling-01","competency":"Sampling methodology","difficulty":"medium","question":"Which method divides a heterogeneous population into internally homogeneous groups?","options":["Systematic sampling","Stratified sampling","Convenience sampling","Snowball sampling"],"correct_index":1,"explanation":"Stratification creates internally homogeneous strata."}
+]

@@ -1,0 +1,4 @@
+Extract only facts stated in the professional profile.
+Return strict JSON with: designation, years_experience, skills, education,
+completed_training. Each skill contains name, claimed_level (1-5) and an exact
+evidence phrase. Use null or an empty list when evidence is absent.

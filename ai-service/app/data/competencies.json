@@ -1,0 +1,7 @@
+[
+  {"name":"Sampling methodology","domain":"Statistical","prerequisites":["Probability","Descriptive statistics"]},
+  {"name":"Data quality management","domain":"Statistical","prerequisites":["Official statistics"]},
+  {"name":"Python for analysis","domain":"Technical","prerequisites":["Programming fundamentals"]},
+  {"name":"Data privacy","domain":"Digital governance","prerequisites":[]},
+  {"name":"Official communication","domain":"Behavioural","prerequisites":[]}
+]

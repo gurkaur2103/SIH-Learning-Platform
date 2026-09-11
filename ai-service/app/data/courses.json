@@ -1,0 +1,6 @@
+[
+  {"id":"demo-001","title":"Foundations of Official Statistics","competencies":["Data quality management"],"level":"foundation","duration_minutes":180,"languages":["English","Hindi"]},
+  {"id":"demo-002","title":"Sampling Methods for Government Surveys","competencies":["Sampling methodology"],"level":"working","duration_minutes":240,"languages":["English"]},
+  {"id":"demo-003","title":"Data Privacy and Responsible Governance","competencies":["Data privacy"],"level":"foundation","duration_minutes":150,"languages":["English","Hindi"]},
+  {"id":"demo-004","title":"Python for Statistical Analysis","competencies":["Python for analysis"],"level":"working","duration_minutes":360,"languages":["English"]}
+]
